@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solar dos Presuntos</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <!-- MENU NAV -->
+    <string name="nav_menu_first_item">Primeiro Item</string>
+    <string name="nav_menu_second_item">Segundo Item</string>
+
+</resources>
