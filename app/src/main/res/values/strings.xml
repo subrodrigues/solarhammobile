@@ -13,5 +13,9 @@
     <string name="home_take_photo">Tirar Nova Fotografia</string>
     <string name="home_add_photo">Adicionar Existente</string>
     <string name="home_show_gallery">Ver Galeria de Fotografias</string>
+    <string name="home_choose_picture_generic_error">Ocorreu um erro inesperado. Por favor, tenta novamente.</string>
+    <string name="home_upload_photo_explanation">É preciso permissão para carregar a fotografia.</string>
+    <string name="home_choose_picture_unsupported_extension">O tipo de ficheiro que selecionaste não é suportado. Por favor, escolhe outra imagem.</string>
+    <string name="home_upload_photo_permission_denied_permanently">É preciso permissão para carregar a fotografia.</string>
 
 </resources>

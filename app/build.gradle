@@ -45,4 +45,15 @@ dependencies {
      */
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
 
+    /**
+     * Image Picker
+     */
+    compile 'com.kbeanie:multipicker:1.1.31@aar'
+
+    /**
+     *  Retrofit
+     */
+    compile "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    compile "com.squareup.retrofit2:converter-gson:$retrofitVersion"
+
 }
