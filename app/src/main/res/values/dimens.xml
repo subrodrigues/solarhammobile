@@ -7,6 +7,8 @@
     <dimen name="shape_card_radius">2dp</dimen>
 
     <!-- HOME -->
+    <dimen name="card_titles_text_size">22sp</dimen>
+
     <dimen name="card_corner_radius">6dp</dimen>
     <dimen name="elevation_normal">4dp</dimen>
     <dimen name="elevation_large">8dp</dimen>

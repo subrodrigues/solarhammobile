@@ -30,8 +30,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/default_margin"
-                android:text="Tirar Nova Fotografia"
-                android:textSize="22sp"
+                android:text="@string/home_take_photo"
+                android:textSize="@dimen/card_titles_text_size"
                 android:textColor="@color/card_text_color"/>
 
             <ImageView
@@ -64,8 +64,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/default_margin"
-                android:text="Adicionar Existente"
-                android:textSize="22sp"
+                android:text="@string/home_add_photo"
+                android:textSize="@dimen/card_titles_text_size"
                 android:textColor="@color/card_text_color"/>
 
             <ImageView
@@ -98,8 +98,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/default_margin"
-                android:text="Ver Galeria de Fotografias"
-                android:textSize="22sp"
+                android:text="@string/home_show_gallery"
+                android:textSize="@dimen/card_titles_text_size"
                 android:textColor="@color/card_text_color"/>
 
             <ImageView

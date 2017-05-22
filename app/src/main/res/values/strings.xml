@@ -1,11 +1,17 @@
 <resources>
-    <string name="app_name">Solar dos Presuntos</string>
 
+    <!-- APP -->
+    <string name="app_name">Solar dos Presuntos</string>
     <string name="navigation_drawer_open">Abrir menu</string>
     <string name="navigation_drawer_close">Fechar menu</string>
 
     <!-- MENU NAV -->
     <string name="nav_menu_first_item">Primeiro Item</string>
     <string name="nav_menu_second_item">Segundo Item</string>
+
+    <!-- HOME -->
+    <string name="home_take_photo">Tirar Nova Fotografia</string>
+    <string name="home_add_photo">Adicionar Existente</string>
+    <string name="home_show_gallery">Ver Galeria de Fotografias</string>
 
 </resources>
